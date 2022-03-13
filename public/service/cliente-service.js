@@ -76,5 +76,4 @@ export const clienteService = {
     removeCliente,
     detalhaCliente,
     atualizaCliente
-
 }
